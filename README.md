@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💫 Sobre mim:
-🌱  Atualmente estou em processo de transição de carreira, estudando Desenvolvimento Web na TRYBE <a href="https://www.betrybe.com/" rel="nofollow"><img align="center" src="https://user-images.githubusercontent.com/108018406/213615293-7710fe7c-46aa-48e8-a82d-2e0672848e0f.png" height="18" width="18" style="max-width: 100%;">.</a><br>
+### 
+<a href="https://www.betrybe.com/" rel="nofollow"><img align="center" src="https://user-images.githubusercontent.com/108018406/213615293-7710fe7c-46aa-48e8-a82d-2e0672848e0f.png" height="18" width="18" style="max-width: 100%;">.</a> 🌱 Atualmente estou em processo de transição de carreira, estudando Desenvolvimento Web na TRYBE.
 
 ### 💻 Tecnologias:
 <p dir="auto">&nbsp; <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a>
@@ -30,14 +30,19 @@ Here are some ideas to get you started:
 
 ### 📈 Estatísticas
 | <a href="https://github.com/Marianaramosl/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marianaramosl&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Marianaramosl/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marianaramosl&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Marianaramosl/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&hide_border=true" /></a> |
 
 ### ✍️ Citação aleatória do desenvolvedor
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 ### 🌐 Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ramos-leite-ar%C3%AAa-le%C3%A3o-72321623a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ramos-leite-ar%C3%AAa-le%C3%A3o-72321623a/) 
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marianaramosl)
+  <a href = "mailto:mariana.ramosleao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
